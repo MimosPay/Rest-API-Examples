@@ -10,4 +10,5 @@
 
 ## Run examples
 
-> php create_order.php
+### Create a charge order
+> cd src && php create_order.php

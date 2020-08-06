@@ -1,6 +1,6 @@
 <?php
 
-require 'vendor/autoload.php';
+require '../vendor/autoload.php';
 
 // Define the http client
 $api_base_url = 'https://api.dev.mimos.io:443/crypto-checkout/v1/';
