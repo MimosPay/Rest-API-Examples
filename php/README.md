@@ -2,7 +2,7 @@
 
 ## Examples: Charges 
 - [x] create a charge order with native code
-- [] create a charge order with MimosPay PHP package
+- [ ] create a charge order with MimosPay PHP package
 
 ## Dependecies
 
